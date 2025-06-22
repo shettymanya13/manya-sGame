@@ -35,7 +35,7 @@ else:
 
 
 
-# Thos program can also be written as :
+# This program can also be written as :
 
 '''
 if(computer - you) == -1 or (computer-you) == 2):
